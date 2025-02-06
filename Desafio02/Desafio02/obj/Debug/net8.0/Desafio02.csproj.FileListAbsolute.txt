@@ -1,0 +1,14 @@
+C:\Users\Yang\source\repos\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.exe
+C:\Users\Yang\source\repos\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.deps.json
+C:\Users\Yang\source\repos\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.runtimeconfig.json
+C:\Users\Yang\source\repos\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.dll
+C:\Users\Yang\source\repos\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.pdb
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.AssemblyInfoInputs.cache
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.AssemblyInfo.cs
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.csproj.CoreCompileInputs.cache
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.dll
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\refint\Desafio02.dll
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.pdb
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.genruntimeconfig.cache
+C:\Users\Yang\source\repos\Desafio02\Desafio02\obj\Debug\net8.0\ref\Desafio02.dll
